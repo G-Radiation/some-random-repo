@@ -1,2 +1,2 @@
-# some-random-repo
-I just use this to learn github
+# sample-repository
+I used this to learn github
